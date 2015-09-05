@@ -8,6 +8,7 @@
 | October, 2013 | [October issue Featuring SMACSS Creator Jonathan Snook Maile](http://empress-media.net/appliness/NovemberAppliness_2013.pdf) |
 | August 20, 2013 | [Make Web Not War](http://outofcomfortzone.net/2013/08/20/make-web-not-war-tv-jonathan-snook/)
 | May 21, 2013 | [We need to talk about your stylesheets: An interview with Jonathan Snook at Drupalcon Portland	Ivan Boothe](http://rootwork.org/blog/2013/05/we-need-talk-about-your-stylesheets-interview-jonathan-snook-drupalcon-portland) |
+| August 20, 2012 | [visuelleGedanken.de](http://visuellegedanken.de/2012-08-20/interview-with-jonathan-snook/) |
 | April 8, 2010 | [FS Interviews: Jonathan Snook	Fire Studios](https://fireg.wordpress.com/2010/04/08/fs-interviews-jonathan-snook/#more-438) |
 | June 16, 2008 | [Jonathan Snook 	Geof Harries](http://subvert.ca/Blog/interview-jonathan-snook) |
 | December 31, 2007 | [Monday by Noon](https://mondaybynoon.com/an-interview-with-jonathan-snook/) |
