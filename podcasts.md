@@ -1,6 +1,6 @@
 # Podcasts 
-* [Jonathan Snook Turns Writing into Speaking](http://ladiesintech.com/podcast-jonathan-snook/)
-* [ShopTalkShow 001](http://shoptalkshow.com/episodes/001/)
+* [Ladies in Tech #18: Jonathan Snook Turns Writing into Speaking](http://ladiesintech.com/podcast-jonathan-snook/)
+* [ShopTalkShow #001](http://shoptalkshow.com/episodes/001/)
 * [SitePoint Podcast #125: Taming the Stylesheet](http://www.sitepoint.com/podcast-125-taming-the-stylesheet-with-jonathan-snook/)
 * [Sass Bites #67 - Front-end Architecture](https://www.youtube.com/watch?v=8bW00z9zCc8)
 * [UnmatchedStyle - Chat Session: Jonathan Snook](http://unmatchedstyle.com/news/chat-session-jonathan-snook.php)
@@ -23,5 +23,5 @@
 * [.NET Rocks: Jon Snook Takes CSS3 Seriously](http://www.developerfusion.com/media/115749/jon-snook-takes-css3-seriously/)
 * [The Interview Show Podcast](http://www.podcast.pl/the-interview-show-podcast-111232/)
 * [Sass Bites #67 - Front-end Architecture with Jonathan Snook](https://plus.google.com/events/cbq510449gh9ba74hhpkh4gfdqo)
-* [Ladies in Tech: Jonathan Snook turns writing into speaking](http://www.podcasts.com/ladies-in-tech-podcast-feed/episode/jonathan-snook-turns-writing-into-speaking)
 * [Systematic 37: Jonathan Snook on the open source career](http://5by5.tv/systematic/37)
+* [Unfinished Business #101](http://www.unfinished.bz/101)
